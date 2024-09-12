@@ -1,0 +1,10 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "notebook.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.tabWidth": 4,
+    "Prettier-SQL.tabSizeOverride": 4,
+    "prettier.useTabs": true,
+    "[prisma]": {
+        "editor.defaultFormatter": "Prisma.prisma"
+    }
+}
