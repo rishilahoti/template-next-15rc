@@ -1,6 +1,11 @@
 ## Template 
 This is a [Next.js 15 RC](https://nextjs.org/blog/next-15-rc) project with [`npx create-next-app@rc`](https://nextjs.org/blog/next-15-rc#create-next-app-updates).
 
+
+https://github.com/user-attachments/assets/29ea2603-b130-4df0-b09e-ee463bb23ab3
+
+
+
 Do give it a star.
 
 ## About This Project
@@ -24,10 +29,17 @@ Contributions can be done here only if you like!
 ## IDE Setup
 - [**Prettier**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - Ctrl + Shift + P and search Format Document With and select Configure Default Formatter and Select **Prettier Code Formatter** from the menu.
+  - ![Screenshot 2024-09-12 151157](https://github.com/user-attachments/assets/07f0ce6a-dd41-4d50-a232-fce92313381d)
+  - ![Screenshot 2024-09-12 155249](https://github.com/user-attachments/assets/9adf9a7a-d388-4094-a253-2591c8cd4af6)
+
+
 
 - [**Tailwind**](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
   - Open setting and search Files Associations and assign ```*.css``` to ```tailwindcss```
+  - ![Screenshot 2024-09-12 151636](https://github.com/user-attachments/assets/469bba98-f58c-4175-a8e8-ccc7ecc5ef73)
   - Search **editor quick suggestions** and turn on ```strings``` to ```on```
+  - ![Screenshot 2024-09-12 151915](https://github.com/user-attachments/assets/66685244-754e-45d0-9d35-21020109693d)
+
 
 - [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   - I have alerady added tailwindcss config to work with eslint in the repo.
